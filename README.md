@@ -21,9 +21,10 @@ A user-friendly game to enhance user's memory.
 4. Start Playing.
 
 # Screenshots
+<img width="959" alt="memory_card_game_1" src="https://github.com/user-attachments/assets/f5287e92-2557-4fa9-9438-251e34e63735">
+
+<img width="959" alt="memory_card_game_2" src="https://github.com/user-attachments/assets/8a84dd8a-2514-4a55-9f94-dce54e9fae66">
+
 - When a player turns over two cards that match, those cards get fixed.
-![](./screenshots/matched.png)
 
 - When a player turns over two cards that do not match, those cards are turned face down again (in the same position).
-![](./screenshots/not_matched.png)
-![](./screenshots/back_to_original.png)
